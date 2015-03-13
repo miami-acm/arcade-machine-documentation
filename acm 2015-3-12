@@ -1,0 +1,53 @@
+Spoke to IEEE about their raspberry pi escapades. They primarily used MAME for emulation. SDS pizza was ordered, and they didn't provide plates. 
+
+Voted for pizza choice: Pappa johns wins. Evan was the sole SDS pizza voter (sad times indeed for evan).
+
+Questions yet to be answered:
+Can we use the TV as a dumb display? - Not really
+
+Put together the conrtol box? Joystick and buttons?
+
+Ideas:
+Use the display next to grad lab. Place in a bunch of monitors...
+Instead of emulation, we will write our own games on the pis
+
+Control Box: 
+2 joysticks, 12 buttons, plus 1 player and 2 player buttons
+first joystick
+U	-- W
+D	-- X
+L	-- A
+R 	-- D
+UR 	-- E
+UL 	-- Q
+DR 	-- C
+DL 	-- Z
+First player buttons
+1	-- R 
+2	-- T
+3	-- Y
+4	-- F
+5	-- G
+6	-- H
+Second player joystick
+U	-- 8
+D	-- 2
+L	-- 4 
+R 	-- 6
+UR 	-- 9
+UL 	-- 7
+DR 	-- 3
+DL 	-- 1
+Second player buttons
+1 	-- U
+2 	-- I
+3 	-- O
+4 	-- J
+5 	-- K
+6 	-- L
+player select buttons
+1st 	-- space
+2nd 	-- enter
+	
+
+
