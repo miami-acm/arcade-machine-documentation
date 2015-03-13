@@ -9,9 +9,11 @@ Put together the conrtol box? Joystick and buttons?
 
 Ideas:
 Use the display next to grad lab. Place in a bunch of monitors...
-Instead of emulation, we will write our own games on the pis
+Instead of emulation, we will write our own games on the pis.
 
 Control Box: 
+The box will be made out of acrylic, because transparency is cool.
+Using Ipac for joystick control, they have linux utils, we can program using the GUI on windows.
 2 joysticks, 12 buttons, plus 1 player and 2 player buttons
 first joystick
 U	-- W
